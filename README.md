@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Ahoj, já jsem Jirka,
 
-<!--
-**mikigroup/mikigroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vítejte na mém GitHub profilu. Jsem JS vývojář webových aplikací.
 
-Here are some ideas to get you started:
+🛠️ Můj technologický stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: SvelteKit s TypeScript
+Backend: Supabase
+Database: PostgreSQL
+Styling: TailwindCSS, SCSS
+DevOps: Vercel
+Testing: Playwright
+
+
+🔭 Aktuálně pracuji na:
+
+🍽️ Šťastné srdce - Webová aplikace pro správu a objednávání jídel
+🌐 Název dalšího projektu - Krátký popis projektu
+
+🌱 Momentálně se učím:
+
+Vše co se dá
+
+
