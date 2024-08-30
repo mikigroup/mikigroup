@@ -7,7 +7,7 @@ vítejte na mém GitHub profilu. Jsem JS vývojář webových aplikací.
 Frontend: SvelteKit s TypeScript
 Backend: Supabase
 Database: PostgreSQL
-Styling: TailwindCSS, SCSS
+Styling: TailwindCSS, CSS
 DevOps: Vercel
 Testing: Playwright
 
