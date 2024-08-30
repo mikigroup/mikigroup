@@ -11,14 +11,10 @@ Styling: TailwindCSS, SCSS
 DevOps: Vercel
 Testing: Playwright
 
-
 🔭 Aktuálně pracuji na:
 
 🍽️ Šťastné srdce - Webová aplikace pro správu a objednávání jídel
-🌐 Název dalšího projektu - Krátký popis projektu
 
-🌱 Momentálně se učím:
 
-Vše co se dá
 
 
