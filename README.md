@@ -1,4 +1,4 @@
-👋 Ahoj, já jsem Jirka,
+👋 Ahoj, jsem Jirka,
 
 vítejte na mém GitHub profilu. Jsem JS vývojář webových aplikací.
 
